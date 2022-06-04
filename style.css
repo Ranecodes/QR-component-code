@@ -25,13 +25,13 @@ body {
 .container {
     background: hsl(0, 0%, 100%);
     padding: 1.25rem;
-    border-radius: 0.625rem;
+    border-radius: 1.5rem;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.075);
     margin-bottom: 2rem;
 }
 
 .container img {
-    border-radius: 0.625rem ;
+    border-radius: 0.8rem ;
     margin-bottom: 1rem;
 }
 
